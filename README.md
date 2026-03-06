@@ -13,12 +13,4 @@
 * Currently exploring **Machine Learning & Deep Learning**  
 * Interested in building **AI-powered web applications**
 
----
-
-<p align="center">
-<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="650"/>
-</p>
-
----
-
 I enjoy building projects that combine **AI + Web Development**
