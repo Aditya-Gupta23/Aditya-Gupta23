@@ -14,31 +14,6 @@
 *  Interested in building **AI-powered web applications**
 
 ---
-
-## 🛠 Tech Stack
-
-**Languages**
-
-Python • JavaScript • C++ • SQL
-
-**Frontend**
-
-React • HTML • CSS • Tailwind
-
-**Backend**
-
-Node.js • Express.js • Django
-
-**Databases**
-
-MongoDB • MySQL
-
-**AI / ML**
-
-TensorFlow • Keras • NumPy • Pandas
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -48,14 +23,6 @@ TensorFlow • Keras • NumPy • Pandas
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Gupta23&theme=tokyonight"/>
 
 </p>
-
----
-
-## 🌱 Currently Learning
-
-* Deep Learning
-* Model Deployment
-* System Design
 
 ---
 
