@@ -12,3 +12,5 @@
 * Experienced with **MERN Stack & Django**  
 * Currently exploring **Machine Learning & Deep Learning**  
 * Interested in building **AI-powered web applications**
+
+I enjoy building projects that combine **AI + Web Development**
